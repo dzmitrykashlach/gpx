@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2024-06-01T12:51:11.249Z</time>
+	</metadata>
+	<wpt lat="54.270900" lon="28.426213">
+		<name>Maloe Stakhawa - 4g</name>
+	</wpt>
+	<wpt lat="54.163910" lon="28.435696">
+		<name>Дворышча - 4g</name>
+	</wpt>
+	<wpt lat="54.202428" lon="28.465888">
+		<name>Trusawa - 4g</name>
+	</wpt>
+	<wpt lat="54.205378" lon="28.465674">
+		<name>Trusawa - 30/14/14 - life :-) - 4g</name>
+	</wpt>
+	<wpt lat="54.206510" lon="28.469977">
+		<name>Trusawa - 33/9/16 - life :-) - 4g</name>
+	</wpt>
+	<wpt lat="54.148528" lon="28.640922">
+		<name>Hliwin - 33/3/6 - 4g</name>
+	</wpt>
+	<wpt lat="54.192315" lon="28.598692">
+		<name>Бярэзіна - 28/6/14 - 4g</name>
+	</wpt>
+	<wpt lat="54.160904" lon="28.462650">
+		<name>Plisa - Paliana</name>
+	</wpt>
+	<wpt lat="54.258266" lon="28.420022">
+		<name>25/14/14 - life 4g</name>
+	</wpt>
+	<wpt lat="54.267240" lon="28.458504">
+		<name>Драўляны насціл</name>
+	</wpt>
+</gpx>
